@@ -8,26 +8,26 @@ redirect_from:
   - /about.html
 ---
 
-I am now a first year Ph.D. student in [VMC group](http://www.pkuvmc.com/) under the supervision of Professor Shiliang Zhang in Peking University, Beijing, China. 
+I am now a third year undergraduate majoring in Software Engineering, [Northwestern Polytechnical University](https://www.nwpu.edu.cn/), Xi'an, China. I am now the leader of the Roborescue team of the soccer robot base of Northwestern Polytechnical University.
 
-My research interests are computer vision, multimodal machine learning and etc.
+I am interested in NLP and Web project.
 
 Educations
 ======
 * Aug. 2020-now. in School of Software, Northwestern Polytechnical University.
 
-# Publications
-
-+ Text-Guided Visual Feature Refinement for Text-Based Person Search (ICMR Oral)  [[pdf]](./files/Text-Guided Visual Feature Refinement for Text-Based Person Search.pdf)
-
 Honors and Awards
 ======
-* 2020\. Outstanding Student Model of Northwestern Polytechnical University (The highest honor for undergraduates, with only 20 students in the university)
-* 2020\. National Champion of China Robotics Competition Basketball Robot Project(Autonomy&Challenge) 
-* 2020\. National First Prize of DJI Robomaster Competition 
-* 2020\. Ranked 24th among 1433 teams in KDD Cup 2020 Challenges for Modern E-Commerce Platform: Multimodalities Recall
+* 2021\. Star of self-improvement(The highest award of the school's single honor)
+* 2021\. Outstanding Student of Northwestern Polytechnical University
+* 2021\. First Class Scholarship
+* 2021\. China National Inspirational Scholarship
+* 2021\. Wu Yajun Third Prize Scholarship
+* 2021\. Xi'an Kewei Aerospace Technology Group Co., Ltd. Scholarship
+* 2022\. First prize of National Robot Championship
+* 
 
 Projects
 ======
-  * [basketball robot project](https://github.com/Zehong-Ma/nwpu_20_basketball_robot)
+  * 
 
