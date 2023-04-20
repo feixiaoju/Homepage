@@ -1,11 +1,23 @@
 # main links links
 main:
-  - title: "Educations"
-    url: /#educations
+  - title: "About me"
+    url: /#About me
   
-  - title: "Honors and Awards"
-    url: /#honors and Awards
+  - title: "News:"
+    url: /#News
 
-  - title: "Projects"
-    url: /#projects
+  - title: "Research"
+    url: /#Research
+    
+  - title: "Selected Publications:"
+    url: /#Selected Publications
+    
+  - title: "Teaching"
+    url: /#Teaching
+    
+  - title: "Student"
+    url: /#Student
+    
+  - title: "Admissions Information"
+    url: /#Admissions Information
 
