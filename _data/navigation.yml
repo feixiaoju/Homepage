@@ -3,13 +3,13 @@ main:
   - title: "About me"
     url: /#About me
   
-  - title: "News:"
+  - title: "News"
     url: /#News
 
   - title: "Research"
     url: /#Research
     
-  - title: "Selected Publications:"
+  - title: "Selected Publications"
     url: /#Selected Publications
     
   - title: "Teaching"
