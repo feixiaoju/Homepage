@@ -3,21 +3,22 @@ main:
   - title: "About me"
     url: /#About me
   
-  - title: "News"
-    url: /#News
-
   - title: "Research"
     url: /#Research
+
+  - title: "Honors and Awards"
+    url: /#Honors and Awards
     
-  - title: "Selected Publications"
-    url: /#Selected Publications
+  - title: "Publications"
+    url: /#Publications
     
-  - title: "Teaching"
-    url: /#Teaching
+  - title: "Educations"
+    url: /#Educations
     
-  - title: "Student"
-    url: /#Student
+  - Hobby: "Hobby"
+    url: /#Hobby
     
-  - title: "Admissions Information"
-    url: /#Admissions Information
+  - CV: "CV"
+    url: ../resume.pdf
+   
 
