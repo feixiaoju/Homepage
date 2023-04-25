@@ -67,4 +67,3 @@ B.Eng in Software Engineering
 
 
 
-[pdf](./files/resume.pdf)
