@@ -64,3 +64,7 @@ B.Eng in Software Engineering
 # Hobby
 
 ​	I like playing badminton and assembling Gundam models.
+
+
+
+[pdf](https://github.com/feixiaoju/Homepage/files/resume.pdf)
