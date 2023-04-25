@@ -19,6 +19,6 @@ main:
     url: /#Hobby
     
   - CV: "CV"
-    url: "https://github.com/feixiaoju/Homepage/blob/master/resume.pdf"
+    url: "./files/resume.pdf"
    
 

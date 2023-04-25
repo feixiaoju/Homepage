@@ -67,4 +67,4 @@ B.Eng in Software Engineering
 
 
 
-[pdf](https://github.com/feixiaoju/Homepage/files/resume.pdf)
+[pdf](./files/resume.pdf)
