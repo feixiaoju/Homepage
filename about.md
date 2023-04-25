@@ -52,12 +52,12 @@ I will try my best to do it 😭😭😭😭😭
 
 # Educations
 
-**Northwestern Polytechnical University**						September 2020 - June 2024(Expected)
+**Northwestern Polytechnical University** $\qquad \qquad$September 2020 - June 2024(Expected)
 
 B.Eng in Software Engineering
 
 * GPA: 90.26/100, 3.77/4.1
-* A+ Courses: Programming Design Basic, Data Structure, Linear Algebra \uppercase\expandafter{\romannumeral1} ,  and 19 others
+* A+ Courses: Programming Design Basic, Data Structure, Linear Algebra Ⅰ,  and 19 others
 
 
 
