@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Shao Dian(邵典)'s Homepage"
+title: " Jun You(游俊)'s Homepage"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,20 +8,28 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I am Dian Shao, and this is my homepage!
+Hello, I am Jun You, and this is my homepage!
 
 # About me
 
 
 
-# News
-
 # Research
 
-# Selected Publications:
 
-# Teaching
 
-# Student
+# Honors and Awards
 
-# Admissions Information
+
+
+# Publications
+
+I will try my best to do it 😭😭😭😭😭
+
+
+
+# Educations
+
+
+
+# Hobby
