@@ -19,6 +19,6 @@ main:
     url: /#Hobby
     
   - CV: "CV"
-    url: ../resume.pdf
+    url: "resume.pdf"
    
 
