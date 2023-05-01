@@ -69,4 +69,5 @@ B.Eng in Software Engineering
 
 # News
 
-* Having the first photo with  Dian
+* Having the first group photo with  Dian				2023.4.27
+* Being an iDian                                                            2023.4.13
