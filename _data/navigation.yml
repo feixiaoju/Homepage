@@ -15,10 +15,10 @@ main:
   - title: "Educations"
     url: /#Educations
     
-  - Hobby: "Hobby"
+  - title: "Hobby"
     url: /#Hobby
     
-  - CV: "CV"
-    url: "./files/resume.pdf"
+  - title: "News"
+    url: /#News
    
 
